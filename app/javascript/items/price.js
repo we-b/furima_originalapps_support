@@ -1,4 +1,4 @@
-window.addEventListener("DOMContentLoaded", comission_cal);
+window.addEventListener("turbo:load", comission_cal);
 window.addEventListener("turbo:render", comission_cal);
 
 function comission_cal(){
